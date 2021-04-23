@@ -1,0 +1,103 @@
+(ExpressProject "UHF-RFID"
+  (ProjectVersion "19981106")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library")
+    (NoModify)
+    (File ".\uhf-rfid.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x"))
+  (Folder "Outputs")
+  (Folder "Referenced Projects")
+  (PartMRUSelector
+    (1N6264/TO
+      (FullPartName "1N6264/TO.Normal")
+      (LibraryName "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (R
+      (FullPartName "R.Normal")
+      (LibraryName
+         "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\PSPICE\ANALOG.OLB")
+      (DeviceIndex "0"))
+    ("SW KEY-SPST"
+      (FullPartName "SW KEY-SPST.Normal")
+      (LibraryName "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (RC522
+      (FullPartName "RC522.Normal")
+      (LibraryName "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\NANO.OLB")
+      (DeviceIndex "0"))
+    (LC1602
+      (FullPartName "LC1602.Normal")
+      (LibraryName "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\NANO.OLB")
+      (DeviceIndex "0"))
+    (ESP8266
+      (FullPartName "ESP8266.Normal")
+      (LibraryName "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\NANO.OLB")
+      (DeviceIndex "0"))
+    (UHF
+      (FullPartName "UHF.Normal")
+      (LibraryName "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\NANO.OLB")
+      (DeviceIndex "0"))
+    (WIFI
+      (FullPartName "WIFI.Normal")
+      (LibraryName "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\NANO.OLB")
+      (DeviceIndex "0"))
+    (TFT
+      (FullPartName "TFT.Normal")
+      (LibraryName "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\NANO.OLB")
+      (DeviceIndex "0"))
+    ("SW PUSHBUTTON"
+      (FullPartName "SW PUSHBUTTON.Normal")
+      (LibraryName "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (0
+      (LibraryName "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (Nano
+      (FullPartName "Nano.Normal")
+      (LibraryName "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\NANO.OLB")
+      (DeviceIndex "0"))
+    (C_elect
+      (FullPartName "C_elect.Normal")
+      (LibraryName
+         "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\PSPICE\ANALOG.OLB")
+      (DeviceIndex "0"))
+    (AM1117-3V3
+      (FullPartName "AM1117-3V3.Normal")
+      (LibraryName "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\SCHLIB1.OLB")
+      (DeviceIndex "0")))
+  (LastUsedLibraryBrowseDirectory "C:\Cadence\SPB_17.2\tools\capture\library")
+  (MPSSessionName "lyw")
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources"
+         "c:\users\lyw\documents\github\uhf-rfid-exam-system\pcb-design\uhf-rfid.dsn")
+      (Path "Design Resources"
+         "c:\users\lyw\documents\github\uhf-rfid-exam-system\pcb-design\uhf-rfid.dsn"
+         "SCHEMATIC1")
+      (Path "Design Resources"
+         "c:\users\lyw\documents\github\uhf-rfid-exam-system\pcb-design\uhf-rfid.dsn"
+         "Design Cache")
+      (Select "Design Resources"
+         "c:\users\lyw\documents\github\uhf-rfid-exam-system\pcb-design\uhf-rfid.dsn"
+         "Design Cache" "SW PUSHBUTTON"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 2 3 -1 -1 -9 -37 0 200 0 412"))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -9 -37 124 1782 124 582")
+        (Scroll "0 553")
+        (Zoom "166")
+        (Occurrence "/"))
+      (Path
+         "C:\USERS\LYW\DOCUMENTS\GITHUB\UHF-RFID-EXAM-SYSTEM\PCB-DESIGN\UHF-RFID.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "PAGE1"))))
